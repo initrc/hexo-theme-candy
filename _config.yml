@@ -14,10 +14,10 @@ twitter:
   show_replies: false
   tweet_count: 5
 
-twitter:
-github:
-facebook:
-google_plus:
+facebook_id:
+google_plus_id:
+twitter_id:
+github_id:
 
 addthis:
   enable: true
