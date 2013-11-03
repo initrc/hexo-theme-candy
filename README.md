@@ -1,6 +1,4 @@
-hexo-theme-candy
-================
-
+# Candy
 A theme for Hexo based on [Light](https://github.com/tommy351/hexo-theme-light).
 
 [Demo](http://initrc.github.io/).
