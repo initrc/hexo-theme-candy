@@ -24,5 +24,6 @@ Candy does not include a home icon for simplicity. The title takes you home.
 3. Add social icons to the header
 4. Remove the navbar and show nav icons next to social icons
 5. Center the title and subtitle
-6. Add a 500px icon
-7. Add a reading icon
+6. Show article tag and category in index
+7. Add a 500px icon
+8. Add a reading icon
