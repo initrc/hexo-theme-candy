@@ -1,4 +1,7 @@
 <div class="social alignright">
+  <% for (var i in theme.menu){ %>
+    <a class="<%= i.toLowerCase() %>" href="<%- theme.menu[i] %>"><%= i %></a>
+  <% } %>
   <% if (theme.facebook_id){ %>
     <a class="facebook" href="http://www.facebook.com/<%= theme.facebook_id %>" title="Facebook">Facebook</a>
   <% } %>
@@ -18,6 +21,7 @@
 </div>
 <div class="clearfix"></div>
 
+<!--
 <nav id="main-nav" class="alignright">
   <ul>
     <% for (var i in theme.menu){ %>
@@ -27,6 +31,7 @@
   <div class="clearfix"></div>
 </nav>
 <div class="clearfix"></div>
+-->
 
 <div id="title" class="aligncenter">
   <h1><a href="<%- config.root %>"><%= config.title %></a></h1>
