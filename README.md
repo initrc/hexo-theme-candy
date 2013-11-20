@@ -8,7 +8,7 @@ There's no navbar in Candy. Instead it shows nav icons so that it aligns with so
 
 For example, if you have two menus in the navbar, you should be able to see two icons next to social icons, if css and images are provided.
 
-``` yml themes/candy/_config.yml
+```yml
 menu:
   Home: /
   Reading: /reading
