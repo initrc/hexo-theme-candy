@@ -1,7 +1,11 @@
 # Candy
 A theme for Hexo based on [Light](https://github.com/tommy351/hexo-theme-light).
 
-[Demo](http://initrc.github.io/).
+# Deprecated
+This theme no longer works on the latest Hexo. Tested on Hexo 2.8.3.
+
+But no worries, here's the new one! Try [Single](https://github.com/initrc/hexo-theme-single), which is built based on [Landscape](https://github.com/hexojs/hexo-theme-landscape).
+- [Demo](http://initrc.github.io/)
 
 # Iconize
 There's no navbar in Candy. Instead it shows nav icons so that it aligns with social icons in a single line.
